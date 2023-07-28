@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+
+.colorBTN{
+    /* width: 170px; */
+    /* height: 60px; */
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #000;
+    /* background: #C39BF4; */
+    box-shadow: 4px 4px 0px 0px #000;
+    display: block;
+    color: #000;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

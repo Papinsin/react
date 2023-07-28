@@ -1,0 +1,12 @@
+
+.sponsorBlock__Content{
+    min-height: 180px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: black; */
+}
+.sponsorBlock__img{
+    cursor: pointer;
+}
